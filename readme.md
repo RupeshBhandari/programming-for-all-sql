@@ -51,8 +51,8 @@ This repository contains materials for learning SQL programming, covering a wide
 
 ## Appendices
 
-- [Appendix A: SQL Syntax Reference](chapters/16-appendixA.md)
-- [Appendix B: Glossary of SQL Terms](chapters/17-appendixB.md)
+- [Appendix A: SQL Syntax Reference](chapters/16-appendixa.md)
+- [Appendix B: Glossary of SQL Terms](chapters/17-appendixb.md)
 
 Each chapter is contained in the `chapters` directory with a separate Markdown file for easy navigation and readability.
 

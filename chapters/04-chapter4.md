@@ -28,8 +28,7 @@ In this example, we're adding a new column called **`full_name`** to the **`user
 
 ### **Modifying a Column**
 
-```
-sqlCopy code
+```sql
 ALTER TABLE users MODIFY COLUMN email VARCHAR(255);
 
 ```
