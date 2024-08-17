@@ -10,10 +10,10 @@ SQL provides a rich set of features for data analysis, allowing users to aggrega
    - SQL offers built-in aggregation functions such as SUM, AVG, COUNT, MIN, and MAX, which enable you to summarize data across rows or groups of rows.
    - These functions are useful for calculating metrics such as total sales, average revenue, or the number of transactions within a given time period.
 ```sql
-    -- Calculate total sales for each product category
-    SELECT category, SUM(sales_amount) AS total_sales
-    FROM sales
-    GROUP BY category;
+-- Calculate total sales for each product category
+SELECT category, SUM(sales_amount) AS total_sales
+FROM sales
+GROUP BY category;
 ```
 
 ### Filtering Data:
